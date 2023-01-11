@@ -42,4 +42,4 @@ Co-authored : Li Chi Wu
 ---
 
 ###  啟動方式
-下載後開啟main檔案即可開啟遊戲，須將terminal介面放大至全螢幕以避免畫面更新導致的閃爍出現。
+下載後開啟main.exe檔案或是執行main.cpp即可開啟遊戲，須將terminal介面放大至全螢幕以避免畫面更新導致的閃爍出現。
