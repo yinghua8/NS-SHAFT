@@ -1,5 +1,4 @@
 # NS-SHAFT
-## 計算機概論專題  -  小朋友下樓梯
 Co-authored : Li Chi Wu
 
 說明：用C++在terminal打造一個小朋友下樓梯的遊戲
